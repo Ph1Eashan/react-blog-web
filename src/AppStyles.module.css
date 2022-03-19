@@ -106,7 +106,7 @@
 .Box_Big_Title {
   font-family: "Montserrat", sans-serif;
   font-weight: 500;
-  font-size: 40px;
+  font-size: 20px;
   text-decoration: none;
   color: white;
 }
@@ -120,7 +120,7 @@
 .Box_Small_Title {
   font-family: "Montserrat", sans-serif;
   font-weight: 500;
-  font-size: 32px;
+  font-size: 22px;
   text-decoration: none;
   color: white;
 }
@@ -146,7 +146,6 @@
   border: 2px solid red;
   width: 9%;
   margin-left: 0;
-  background-color: red;
 }
 
 .AllSections_Top {
@@ -182,7 +181,7 @@
 .AllSections_Title {
   font-family: "Montserrat", sans-serif;
   font-weight: 500;
-  font-size: 32px;
+  font-size: 22px;
   text-decoration: none;
   color: #404040;
 }
@@ -243,7 +242,7 @@
 .category1_Title {
   font-family: "Montserrat", sans-serif;
   font-weight: 500;
-  font-size: 26px;
+  font-size: 20px;
   text-decoration: none;
   color: black;
 }
@@ -277,6 +276,7 @@
   gap: 0.5vw;
   border-bottom: solid 2px silver;
   padding-bottom: 1vw;
+  overflow: hidden;
 }
 
 .category1_Image {
